@@ -11,11 +11,17 @@
 
 - [Archivo BI](/pensiones/Dashboard_pension.pbix)
 
-## Análisis de Componentes Principales (PCA)
+## Índice de Riesgo (PCA)
 
 - [Ver Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiZDYwZTM3ZmYtNjkwYi00YTRmLWI3ZTAtOTc1ODAxZDcyOWZmIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9&pageName=ReportSection)
 
 - [Archivo BI](/pca_project/dashboard.pbix)
+
+## Series de Tiempo
+
+- [Ver Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiNmM4NjNjZDEtYTZmYi00YzRlLWE0MDUtN2MwNDAyMTE2ZTlhIiwidCI6ImNhY2E5MDExLTdiNmEtNDRkZS04NjFmLTA5NWEyY2E4ODNiNyIsImMiOjR9)
+
+- [Archivo BI](/series_tiempo/Series%20de%20tiempo.pbix)
 
 ## Proyecto Final (Churn Analysis)
 
